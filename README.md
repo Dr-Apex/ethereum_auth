@@ -6,7 +6,7 @@ React App that implements Sign-In with Ethereum module.
 
 - Already used throughout web3, this is an effort to standardize the method with best practices and to make it easier for web2 services to adopt it.
 
-> Techs: TypeScript, Tailwind Css, ethers.js, siwe
+> Techs: TypeScript, Tailwind Css, Ethers.js, Siwe.
 
 ## Available Scripts
 
