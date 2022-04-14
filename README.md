@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Ethereum Auth
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React App that implements Sign-In with Ethereum module.
+
+Sign-In with Ethereum is a new form of authentication that enables users to control their digital identity with their Ethereum account and ENS profile instead of relying on a traditional intermediary.
+
+Already used throughout web3, this is an effort to standardize the method with best practices and to make it easier for web2 services to adopt it.
+
+> Techs: TypeScript, Tailwind Css, ethers.js, siwe
 
 ## Available Scripts
 
